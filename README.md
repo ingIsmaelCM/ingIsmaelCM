@@ -1,35 +1,28 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Ismael Contreras</a> 👋</h1>
 </div>
-<img src="https://res.cloudinary.com/atriontechsd/image/upload/v1719767800/Banner_Profesional_x01ow5.jpg">
-
+<img src="https://res.cloudinary.com/atriontechsd/image/upload/v1719768692/Banner_Professional_xsjohy.jpg">
 
 ## Sobre mi
-
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- ⭐ Ingeniero en Software 
+- 📲 Web Developer
+- 🎥 Manejo de Nodejs, VueJS, Typescript, Tailwind CSS y más.
+- ✏️ 4+ años de experiencia en el área de programación.
 <br>
 
-## Proyectos *bombitas*
+## Proyectos *Destacados*
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">SIGPRESS</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<img src="https://ismaelcm.dev/images/portfolio1.jpeg" width="400" alt="SIGPRES">
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://github.com/ingIsmaelCM/SIGPRES" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="25">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Sistema para la gestión de préstamos y cobranza, manejo de clientes, calendarización y envío de notificaciones.</p>
 </div>
                                                                                       
 </td>
