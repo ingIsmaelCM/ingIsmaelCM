@@ -4,10 +4,10 @@
 <img src="https://res.cloudinary.com/atriontechsd/image/upload/v1719768692/Banner_Professional_xsjohy.jpg">
 
 ## Sobre mi
-- ⭐ Ingeniero en Software 
-- 📲 Web Developer
-- 🎥 Manejo de Nodejs, VueJS, Typescript, Tailwind CSS y más.
-- ✏️ 4+ años de experiencia en el área de programación.
+- 💻 Ingeniero en Software 
+- 👨‍💻 Web Developer
+- </> Manejo de Nodejs, VueJS, Typescript, Tailwind CSS y más.
+- 🚀 4+ años de experiencia en el área de programación.
 <br>
 
 ## Proyectos *Destacados*
