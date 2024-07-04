@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Ismael Contreras</a> 👋</h1>
 </div>
-<img src="https://res.cloudinary.com/atriontechsd/image/upload/v1719768692/Banner_Professional_xsjohy.jpg">
+<img src="https://res.cloudinary.com/atriontechsd/image/upload/v1720058058/Banner_Professional_xsjohy.jpg" alt="Banner">
 
 ## Sobre mi
 - 💻 Ingeniero en Software 
