@@ -3,10 +3,10 @@
 </div>
 <img src="https://res.cloudinary.com/atriontechsd/image/upload/v1720058058/Banner_Professional_xsjohy.jpg" alt="Banner">
 
-## Sobre mi
+## Sobre mí
 - 💻 Ingeniero en Software 
 - 👨‍💻 Web Developer
-- </> Manejo de Nodejs, VueJS, Typescript, Tailwind CSS y más.
+- </> Manejo de Nodejs, VueJS, Typescript, Docker,Websocket, Linux y más.
 - 🚀 4+ años de experiencia en el área de programación.
 <br>
 
