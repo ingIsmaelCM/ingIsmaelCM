@@ -1,16 +1,17 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Ismael Contreras</a> 👋</h1>
+<h1 align="center">Hello, I'm <a href="https://aristi.dev">Ismael Contreras</a> 👋</h1>
 </div>
 <img src="https://res.cloudinary.com/atriontechsd/image/upload/v1720058058/Banner_Professional_xsjohy.jpg" alt="Banner">
 
-## Sobre mí
-- 💻 Ingeniero en Software 
-- 👨‍💻 Web Developer
-- </> Manejo de Nodejs, VueJS, Typescript, Docker,Websocket, Linux y más.
-- 🚀 4+ años de experiencia en el área de programación.
+## About Me
+- 💻 Software Engineer 
+- 👨‍💻 Web Fullstack Developer 
+- </> Skills Nodejs, VueJS, Typescript, Docker,Websocket, Linux and more.
+- 🚀 4+ years experienced developer.
+- 🛡️ Cibersecurity Principles Oriented 
 <br>
 
-## Proyectos *Destacados*
+## *Highlighted* Projects
 <table>
 <tr>
 <td width="50%">
@@ -22,7 +23,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="25">
 </a>
 </p>
-<p>Sistema para la gestión de préstamos y cobranza, manejo de clientes, calendarización y envío de notificaciones.</p>
+<p>Loans and payments management system, customers management, records in calendar and notify.</p>
 </div>
                                                                                       
 </td>
@@ -37,7 +38,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="25">
 </a>
 </p>
-</p>Sistema de Gestión para nutricionista: planes, clientes, nutrientes, recordatorios, consultas.</p>
+</p>Nutritionist management system: plans, customers, nutrients, reminders, consultation, etc.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
