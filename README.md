@@ -18,7 +18,7 @@
   <td width="50%">
 <h3 align="center">PeopleLab</h3>
 <div align="center">
-<img src="[https://ismaelcm.dev/images/portfolio1.jpeg](https://res.cloudinary.com/dz2y6qlex/image/upload/v1738069102/shpwjm2rrpqh12hpzz2x.png)" height="200" alt="peoplelab">
+<img src="https://res.cloudinary.com/dz2y6qlex/image/upload/v1738069102/shpwjm2rrpqh12hpzz2x.png" height="200" alt="peoplelab">
 <p>
 <a href="https://demo.peoplelabco.com/dashboard" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="25">
