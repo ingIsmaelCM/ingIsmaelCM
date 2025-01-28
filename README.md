@@ -16,15 +16,15 @@
 <tr>
 
   <td width="50%">
-<h3 align="center">SIGPRESS</h3>
+<h3 align="center">PeopleLab</h3>
 <div align="center">
-<img src="https://ismaelcm.dev/images/portfolio1.jpeg" height="200" alt="SIGPRES">
+<img src="[https://ismaelcm.dev/images/portfolio1.jpeg](https://res.cloudinary.com/dz2y6qlex/image/upload/v1738069102/shpwjm2rrpqh12hpzz2x.png)" height="200" alt="peoplelab">
 <p>
-<a href="https://github.com/ingIsmaelCM/SIGPRES" target="_blank">
+<a href="https://demo.peoplelabco.com/dashboard" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="25">
 </a>
 </p>
-<p>Loans and payments management system, customers management, records in calendar and notify.</p>
+<p>Sistema integral de gestión de personal, procesos y datos, con roles y servicios.</p>
 </div>
                                                                                       
 </td>
@@ -37,23 +37,12 @@
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="25">
 </a>
 </p>
-<p>Loans and payments management system, customers management, records in calendar and notify.</p>
+<p>Sistema de gestión de préstamos y pagarés, manejo de clientes, registros en calendario y nogificación.</p>
 </div>
                                                                                       
 </td>
 
-<td width="50%">
-               <br>
-<h3 align="center">JDoit</h3>
-<div align="center">                                       
-<img src="https://ismaelcm.dev/images/portfolio2.jpeg" height="200" alt="JDoit">
-<p>
-<a href="https://github.com/ingIsmaelCM/jdoit" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="25">
-</a>
-</p>
-</p>Nutritionist management system: plans, customers, nutrients, reminders, consultation, etc.</p>
-</div>                                                             
+                                   
 </table>                                                                                 
 </div>
 <br>
